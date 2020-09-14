@@ -13,4 +13,4 @@ aware or not.
 
 ### Execution example
 
-![screen capture](https://github.com/0reldev/quest-security-xss-basics-prevent/blob/master/screen capture.png)
+![screen capture](https://github.com/0reldev/quest-security-xss-basics-prevent/blob/master/screen%20capture.png)
