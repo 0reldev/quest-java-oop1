@@ -1,6 +1,5 @@
 public class Classroom {
 
-
     public static void main(String[] args) {
 
         Wilder Johnny = new Wilder("Johnny", true);
@@ -14,9 +13,5 @@ public class Classroom {
         System.out.println(presentationJohnny);
         System.out.println(presentationQuasimodo);
         System.out.println(presentationPolichinel);
-
-
     }
-
-
 }

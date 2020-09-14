@@ -7,12 +7,14 @@ public class Duck {
 
     // constructors
     public Duck(String name) {
+
         this.name = name;
         this.age = 0;
         this.swimming = false;
     }
 
     public Duck(String name, int age) {
+
         this.name = name;
         this.age = age;
         this.swimming = false;
